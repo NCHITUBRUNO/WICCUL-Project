@@ -6,13 +6,13 @@ const services = [
   {
     icon: CircleDollarSign,
     title: 'Shares Account',
-    description: 'To become a member, you must buy individual shares. A share cost 1,000 frs. WiCCUL requires a minimum of 25 shares costing 25,000frs.',
+    description: 'To become a member, you must buy individual shares. A share cost 1,000 frs. WiCCUL requires a minimum of 35 shares costing 35,000frs.',
     features: ['Refundable at Account Closure', 'Recieves dividend at year end', 'Not Withdrawable'],
     modalContent: {
       details: [
         'Shares account is a capital contribution account. Members are not allowed to withdraw from this account. Withdrawal is only allowed at account closure.'
       ],
-      requirements: ['Valid ID card', 'Proof of address', 'Minimum Share: 25,000 XAF'],
+      requirements: ['Valid ID card', 'Proof of address', 'Minimum Share: 35,000 XAF'],
       benefits: ['Refundable at Account Closure', 'Recieves divident at year end', 'No Extra Charges.']
     }
   },

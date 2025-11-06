@@ -65,9 +65,9 @@ export default function Hero() {
 
             <div className="grid grid-cols-3 gap-6 pt-8">
               {[
-                { icon: Users, value: '1400+', label: 'Members' },
-                { icon: TrendingUp, value: '18.5M XAF', label: 'Assets' },
-                { icon: Shield, value: '5+', label: 'Years Trust' }
+                { icon: Users, value: '800+', label: 'Members' },
+                { icon: TrendingUp, value: '50M+ XAF', label: 'Assets' },
+                { icon: Shield, value: '3+', label: 'Years Trust' }
               ].map((stat, index) => {
                 const Icon = stat.icon;
                 return (
