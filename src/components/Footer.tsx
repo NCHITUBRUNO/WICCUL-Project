@@ -80,7 +80,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3 text-white/80 hover:text-white transition-colors duration-300 cursor-pointer group">
                 <MapPin className="w-5 h-5 text-[#FFFFFF] flex-shrink-0 mt-0.5 group-hover:scale-125 transition-transform duration-300" />
-                <span>Total Nkwen, Opposite Way-Out Nkwen Market , Bamenda, Cameroon</span>
+                <span>Cow Street Nkwen Bamenda, Opposite Total Petrol Station, NorthWest Region</span>
               </li>
               <li className="flex items-center gap-3 text-white/80 hover:text-white transition-colors duration-300 cursor-pointer group">
                 <Phone className="w-5 h-5 text-[#FFFFFF] flex-shrink-0 group-hover:scale-125 transition-transform duration-300" />
